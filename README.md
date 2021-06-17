@@ -14,5 +14,5 @@ Botunuzu kendi sunucunuza davet etmek için [Discord Developers](https://discord
 
 Botu aktif etmek için projede bulunan `run.bat` dosyasını açmak.
 
-#### **Developed by Sadece Emir**
-#### **İzinsiz kopyalama ve çoğaltma yasaktır.**
+**Developed by Sadece Emir**
+**İzinsiz kopyalama ve çoğaltma yasaktır.**

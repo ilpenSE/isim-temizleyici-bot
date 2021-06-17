@@ -1,0 +1,14 @@
+{
+  "name": "isim-temizleyici",
+  "version": "1.0.0",
+  "description": "Sadece Emir - Discord İsim Temizleyici Bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "sa"
+  },
+  "author": "Sadece Emir#0001",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
